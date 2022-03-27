@@ -1,0 +1,71 @@
+body{
+    background-color: #373737;
+   margin: 0%;
+   padding: 0%;
+    
+}
+h1{
+    color: rgb(255, 255, 255);
+    padding: 0;
+    margin: 0;
+}
+p{
+    color: white;
+}
+h2{
+    color: red;
+}
+.title{
+text-align: center;
+padding: 1%;
+ }
+ header{
+    display: block;
+    
+ }
+ ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: rgb(248, 241, 239);
+    text-align: center;
+    color: black;
+    padding: 22px;
+    font-size: 30px;
+    
+    
+ }
+ li{
+    
+    display: list-item;
+    text-align: -webkit-match-parent;
+    
+ }
+ nav{
+    display: block;
+ }
+div{
+    background-color: #21022D;
+   padding: 0%;
+
+}
+a{
+    color: rgb(248, 3, 3);
+
+}
+nav a{
+    
+    text-decoration: none;
+    
+}
+.fundacao{
+    text-align: center;
+    color: aqua;
+}
+.classes{
+    color: red;
+}
+#poderoso{
+    color: red;
+}
